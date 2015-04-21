@@ -12,3 +12,4 @@ Now,
   this "keyout" event needs to have a delay like you see on search engines. wait a bit... nothing is pressed... make a request.
 
 This is what I have made using javascript and Kendo UI MVVM.
+You can find it too here: http://jsfiddle.net/jmmalaca/v9q48hzp/
