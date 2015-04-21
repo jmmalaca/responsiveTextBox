@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  </head>
+  <body>
+  
+  <!-- View source -->
+  <input data-bind="valueInserted: textInserted"/>
+  Input value: <span data-bind="text: textInserted" />
+  
+  <script src="viewModel.js"></script>
+  </body>
+</html>
