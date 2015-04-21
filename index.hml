@@ -8,6 +8,7 @@
   <input data-bind="valueInserted: textInserted"/>
   Input value: <span data-bind="text: textInserted" />
   
+  <script src="kendo.all.min.js"></script>
   <script src="viewModel.js"></script>
   </body>
 </html>
